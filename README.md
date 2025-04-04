@@ -1,2 +1,1 @@
-# yogendra-
-echo '# My Web Project\n\nThis repository contains the HTML, Nginx configuration, and shell scripts for my web project.\n\n## Setup\n\n1. Clone the repository.\n2. Copy the `nginx/sites-available/my-website.conf` file to `/etc/nginx/sites-available/`.\n3. Create a symbolic link in `/etc/nginx/sites-enabled/`: `sudo ln -s /etc/nginx/sites-available/my-website.conf /etc/nginx/sites-enabled/`.\n4. Run the `scripts/deploy.sh` script to deploy the HTML files.\n\n## Usage\n\nVisit `mywebsite.com` in your web browser.' > README.md
+# yogendra
